@@ -136,3 +136,27 @@ ps명령어를 통해 종료하고 싶은 프로세스의 pid를 얻고 kill 명
 단축키 @를 누르고 매크로 이름을 입력하면 매크로가 실행된다
 
 매크로를 특정 횟수만큼 반복시켜 실행할 때 [숫자]@[NAME]로 사용한다
+
+***
+# 참고자료 및 출처
+우종경,박종오, 유닉스 리눅스 명령어 사전(2010.11.30), 네이버 지식백과
+
+top명령어:
+
+<https://terms.naver.com/entry.naver?docId=4125861&cid=59321&categoryId=59321>
+
+ps명령어:
+
+<https://terms.naver.com/entry.naver?docId=4125773&cid=59321&categoryId=59321>
+
+jobs명령어:
+
+<https://terms.naver.com/entry.naver?docId=4125682&cid=59321&categoryId=59321>
+
+kill명령어:
+
+<https://terms.naver.com/entry.naver?docId=4125687&cid=59321&categoryId=59321>
+
+vim에디터 매크로:
+
+<https://jmoon.co.kr/38>
