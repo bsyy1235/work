@@ -57,6 +57,7 @@ ps: pid,cmd 등 프로세스의 기본적인 내용만 출력
 ### 3. jobs
 : 작업이 중지된 상태, 백그라운드로 진행 중인 작업 상태, 변경되었지만 보고되지 않은 상태 등을 표시
 
+
 jobs[옵션][jobID]
 
 jobs -x command[args]
@@ -91,7 +92,7 @@ jobs -x command[args]
 |Stopped|작업이 일시 중단됨|
 
 ### 4. kill
-: 프로세스에 종료
+: 프로세스 종료
 
 kill [옵션] pid
 
@@ -115,7 +116,7 @@ ps명령어를 통해 종료하고 싶은 프로세스의 pid를 얻고 kill 명
 
 # vim 에디터 매크로 사용방법
 
-### 매크로 실행 q
+### 매크로 녹화 q
  vim에디터의 명령모드에서 실행
  
  >>매크로 녹화 시작: q[NAME]
@@ -129,7 +130,7 @@ ps명령어를 통해 종료하고 싶은 프로세스의 pid를 얻고 kill 명
  매크로 녹화를 종료시킬 때는 다시 q를 입력하여 종료한다
 
 
-### 실행 @
+### 매크로 실행 @
 
 >>매크로 실행: @[NAME]
 
@@ -158,5 +159,7 @@ kill명령어:
 <https://terms.naver.com/entry.naver?docId=4125687&cid=59321&categoryId=59321>
 
 vim에디터 매크로:
+
+JMoon1601, Vim/vi에서 간단한 예제로 설명하는 매크로(Macro) 사용법, (2016.6.23. 13:18)
 
 <https://jmoon.co.kr/38>
